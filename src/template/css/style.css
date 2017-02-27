@@ -13,7 +13,7 @@ body {
 .wrap-header h1 {
     width: 100%;
     height: 40px;
-	color: #E93071;
+	color: #000000;
     padding: 20px 0 10px 0;
 	border-bottom: 2px dashed #888;
     margin: 0 0 10px;
@@ -39,10 +39,10 @@ body {
 }
 a {
 	text-decoration: none;
-	color: #E93071;
+	color: #000000;
 }
 a:hover {
-	border-bottom: 1px solid #E93071;
+	border-bottom: 1px solid #000000;
 }
 .selected {
 	color: black;
@@ -74,7 +74,7 @@ a:hover {
 }
 .title a:hover {
 	padding-bottom: 2px;
-	border-bottom: 1px solid #E93071;
+	border-bottom: 1px solid #000000;
 }
 .title h2 {
 	font-size: 17px;
